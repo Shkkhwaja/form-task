@@ -1,0 +1,2 @@
+## TASK
+operation with localstorage
